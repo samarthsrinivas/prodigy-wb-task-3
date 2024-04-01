@@ -1,3 +1,3 @@
-# prodigy wb task 3
+# PRODIGY WD 3
  tic tak toe game
  
